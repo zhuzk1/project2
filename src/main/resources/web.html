@@ -1,10 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Distance Calculator with Map</title>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCCLNbB5WCfOsr8XIvD3GZc0vf7GnGj5Mo&callback=initMap" async defer></script>
+    <script src="function.js"></script>
+    <style>
+        #map {
+            height: 600px;
+            width: 100%
+        }
+    </style>
 </head>
 <body>
-$END$
+<h1>Distance Calculator with Map</h1>
+<form id="distanceForm">
+    <label for="origin">Origin:</label>
+    <input type="text" id="origin" required>
+
+    <label for="destination">Destination:</label>
+    <input type="text" id="destination" required>
+
+    <button type="button" onclick="calculateDistance()">Calculate Distance</button>
+</form>
+
+<div id="result"></div>
+<div id="map"></div>
 </body>
 </html>
