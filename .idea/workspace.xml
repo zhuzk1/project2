@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3e3ad70-bbe3-44ad-9c48-53a8ecb368eb" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/function.js" afterDir="false" />
+    <list default="true" id="f3e3ad70-bbe3-44ad-9c48-53a8ecb368eb" name="变更" comment="更改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/function.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/function.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/web.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/web.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,7 @@
     </option>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2XfsIjzstRFLjOFynAO45V8elh3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -66,6 +65,14 @@
       <option name="presentableId" value="Default" />
       <updated>1699031393080</updated>
     </task>
+    <task id="LOCAL-00001" summary="更改">
+      <created>1701644277717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701644277717</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更改" />
+    <option name="LAST_COMMIT_MESSAGE" value="更改" />
   </component>
 </project>
